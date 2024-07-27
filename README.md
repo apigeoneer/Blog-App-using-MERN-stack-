@@ -2,8 +2,6 @@
 
 Wanna create your own blog? Just clone this repo and get started!
 
-[![MERN Stack Blog Demo]([https://drive.google.com/file/d/11KuwWMnEZ_P-LnbvRpID62B50UoTEokx/view?usp=drive_link](https://github.com/user-attachments/assets/62f03127-4c29-40bc-b445-359cda4d059a))](https://drive.google.com/file/d/11KuwWMnEZ_P-LnbvRpID62B50UoTEokx/view?usp=drive_link)
-
 <img width="833" alt="Screenshot 2024-07-28 at 2 54 52 AM" src="https://github.com/user-attachments/assets/62f03127-4c29-40bc-b445-359cda4d059a">
 
 ### What's Inside? 📦
