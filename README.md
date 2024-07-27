@@ -1,10 +1,9 @@
 ## MERN Stack Blog
 
-Wanna create your own blog? Just clone this repo and get started!
+![blog_demo](https://github.com/user-attachments/assets/752901ef-d84b-41f7-bbe6-05be293ecb30)
 
-<img width="833" alt="Screenshot 2024-07-28 at 2 54 52 AM" src="https://github.com/user-attachments/assets/62f03127-4c29-40bc-b445-359cda4d059a">
 
-### What's Inside?
+### Techstack
 
 - **MongoDB**: For storing your blog posts.
 - **Express**: The backend framework that handles the heavy lifting.
@@ -19,6 +18,7 @@ Wanna create your own blog? Just clone this repo and get started!
 - Rich text editor for post-content
 
 
+Clone this repo to create your own blog!
 Happy coding! 💻
 
 ---
