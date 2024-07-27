@@ -2,7 +2,7 @@
 
 Wanna create your own blog? Just clone this repo and get started!
 
-[![MERN Stack Blog Demo](https://drive.google.com/file/d/11KuwWMnEZ_P-LnbvRpID62B50UoTEokx/view?usp=drive_link/maxresdefault.jpg)](https://drive.google.com/file/d/11KuwWMnEZ_P-LnbvRpID62B50UoTEokx/view?usp=drive_link)
+[![MERN Stack Blog Demo](https://drive.google.com/file/d/11KuwWMnEZ_P-LnbvRpID62B50UoTEokx/view?usp=drive_link)
 
 
 ### What's Inside? 📦
