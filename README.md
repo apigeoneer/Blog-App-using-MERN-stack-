@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
    ```
    cd MERN-Stack-Blog-App
-   cd server && npm install
+   cd api && npm install
    cd ../client && npm install
    ```
 
@@ -45,7 +45,7 @@ To get started with this project, follow these steps:
 5. Start the backend server:
 
    ```
-   cd server && npm start
+   cd api && npm start
    ```
 
 6. Start the frontend application:
