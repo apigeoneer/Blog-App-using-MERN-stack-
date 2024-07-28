@@ -1,6 +1,6 @@
 # MERN Stack Blog
 
-Welcome to our Blog App repository! This full-stack application leverages the power of MongoDB, Express, React, and Node.js (MERN) to provide a robust platform for creating, managing, and sharing blog posts. With a user-friendly interface and a range of features, this app offers an excellent foundation for bloggers and developers alike.
+Welcome to our Blog App repository! This full-stack application leverages the power of MongoDB, Express, React, and Node.js (MERN) to provide a robust platform for creating & managing blog posts. With a user-friendly interface and a range of features, this app offers an excellent foundation for bloggers and developers alike.
 
 ![blog_demo](https://github.com/user-attachments/assets/752901ef-d84b-41f7-bbe6-05be293ecb30)
 
