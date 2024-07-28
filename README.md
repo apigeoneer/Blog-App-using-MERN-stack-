@@ -60,4 +60,6 @@ To get started with this project, follow these steps:
 
 Your contributions are valued and encouraged! If you have ideas for improvements or encounter any issues, please open an issue. Pull requests are welcome.
 
+Happy coding! 💻
+
 ---
